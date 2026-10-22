@@ -13,8 +13,8 @@
 - 로컬 저장을 중심으로 구성한 Codex / Claude Code 스킬
 - **Python · AI 도구 연동 · 로컬 웹 UI**
 
-### 🌐 [Our-Frequency](https://github.com/K-Lunatic/Our-Frequency)
-사주 입력·질문 응답과 결과 시각화, 궁합 분석을 탐색하는 웹 프로젝트입니다.
+### 🌐 [Our-Frequency · 과제 제출판](https://github.com/K-Lunatic/Our-Frequency)
+사주 입력·질문 응답과 결과 시각화, 궁합 분석을 탐색하는 웹 프로젝트의 과제 제출용 재구현입니다. 본 프로젝트는 별도 비공개 저장소에서 관리합니다.
 
 - 입력 화면부터 분석 결과까지 이어지는 사용자 흐름
 - **React · TypeScript · Vite · 3D 인터페이스**
