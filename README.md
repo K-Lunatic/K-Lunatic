@@ -13,12 +13,6 @@
 - 로컬 저장을 중심으로 구성한 Codex / Claude Code 스킬
 - **Python · AI 도구 연동 · 로컬 웹 UI**
 
-### 📷 [BillPhoto](https://github.com/K-Lunatic/BillPhoto)
-교수님 이미지와 함께 사진을 촬영하고 결과물을 만드는 웹 포토부스 프로젝트입니다.
-
-- 교수님 선택 → 카메라 촬영 → 사진 선택 → 결과 확인
-- **Next.js · TypeScript · 카메라 UI**
-
 ### 🌐 [Our-Frequency](https://github.com/K-Lunatic/Our-Frequency)
 사주 입력·질문 응답과 결과 시각화, 궁합 분석을 탐색하는 웹 프로젝트입니다.
 
