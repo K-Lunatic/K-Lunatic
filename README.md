@@ -19,6 +19,10 @@
 - 입력 화면부터 분석 결과까지 이어지는 사용자 흐름
 - **React · TypeScript · Vite · 3D 인터페이스**
 
+## 현장에서 만든 도구
+
+- **[K_Army_qr](https://github.com/K-Lunatic/K_Army_qr)** — 행정병 근무 중 만든 QR 안내·행사 배치도 조회 도구
+
 ## 배우고 만드는 과정
 
 - **[Bedrock](https://github.com/K-Lunatic/Bedrock)** — C와 자료구조·알고리즘 학습 기록
