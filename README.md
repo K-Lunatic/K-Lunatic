@@ -25,6 +25,5 @@ C·통신·기기 제어 경험을 정리하며 MCU·RTOS·디버깅으로 확�
 ## 현장에서 만든 도구와 다른 경험
 
 - **[K_Army_qr](https://github.com/K-Lunatic/K_Army_qr/tree/portfolio-readme-refresh)** — 행정병 근무 중 만든 QR 안내·행사 배치도 조회 도구.
-- **[Our-Frequency 과제 제출판](https://github.com/K-Lunatic/Our-Frequency/tree/portfolio-readme-refresh)** — 입력과 분석 결과·궁합 시각화. 실제 본 프로젝트는 비공개 Our-Frequency_org에서 관리합니다.
+- **[Our-Frequency 과제 제출판](https://github.com/K-Lunatic/Our-Frequency/tree/portfolio-readme-refresh)** — 입력과 분석 결과·궁합 시각화.
 
-연결된 소개 문서는 검토 브랜치 기준입니다. 공개 자료에는 교수님 이미지·개인 필기·녹음·강의 원본을 넣지 않습니다.
