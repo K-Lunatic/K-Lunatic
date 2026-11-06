@@ -6,6 +6,8 @@
 
 ## 게임과 인터랙션
 
+[Roomcon](https://roomcon.team/)에서는 매달 하나씩 새 프로젝트를 만들 계획입니다. BID! LIMIT은 Roomcon의 첫 번째 프로젝트입니다.
+
 - **[BID! LIMIT](https://github.com/K-Lunatic/bid-limit)** — Godot으로 4인 경매 게임을 만들면서 WebRTC 멀티플레이와 브라우저 음성 채팅을 직접 구현해 봤습니다. [브라우저에서 플레이](https://bid-limit.vercel.app/)
 - **[Catpera · Void](https://github.com/K-Lunatic/Foundation/blob/portfolio-readme-refresh/PROJECTS.md#catpera-symphony--음악에-반응하는-3d-오케스트라)** — MIDI에 맞춰 움직이는 3D 오케스트라와, 휴대폰에서 낸 소리에 반응하는 전시 화면입니다.
 
