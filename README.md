@@ -2,6 +2,8 @@
 
 컴퓨터공학을 공부하며 학습 도구와 소리·입력에 반응하는 3D 콘텐츠를 만듭니다.
 
+[LinkedIn](https://www.linkedin.com/in/%EB%8B%A4%ED%95%9C-%EA%B9%80-09312b425/)
+
 ## 대표 프로젝트
 
 **[터틀넥](https://github.com/K-Lunatic/Turtleneck) · AI 학습 도구**  
