@@ -1,24 +1,18 @@
-# Luna · K-Lunatic
+# Luna
 
-컴퓨터공학을 공부하며 학습 도구와 소리·입력에 반응하는 3D 콘텐츠를 만듭니다.
+컴퓨터공학을 공부하고 있습니다. 요즘은 Godot으로 4인 경매 게임을 만들고, 그전에는 학교 자료를 정리하는 도구와 행정병 근무 중 필요했던 QR 안내 페이지를 만들었습니다. 앞으로는 게임과 임베디드 쪽을 더 깊게 해보고 싶습니다.
 
 [LinkedIn](https://www.linkedin.com/in/%EB%8B%A4%ED%95%9C-%EA%B9%80-09312b425/)
 
-## 대표 프로젝트
+## 게임과 인터랙션
 
-**[터틀넥](https://github.com/K-Lunatic/Turtleneck) · AI 학습 도구**  
-학교 자료를 바탕으로 문제를 만들고, 웹 시험에서 풀고, 풀이 기록으로 복습하는 Codex·Claude Code 스킬입니다.
+- **[BID! LIMIT](https://github.com/K-Lunatic/bid-limit)** — Godot으로 만든 4인 2D 경매 게임. WebRTC로 같은 방에 접속해 카드로 입찰합니다. [웹 빌드](https://bid-limit.vercel.app/)
+- **[Catpera · Void](https://github.com/K-Lunatic/Foundation/blob/portfolio-readme-refresh/PROJECTS.md#catpera-symphony--음악에-반응하는-3d-오케스트라)** — MIDI에 맞춰 움직이는 3D 오케스트라와, 휴대폰에서 낸 소리에 반응하는 전시 화면입니다.
 
-**[Notability Study](https://github.com/K-Lunatic/Foundation/tree/portfolio-readme-refresh/tools/notability-study) · 필기와 강의 설명 연결**  
-필기·녹음·전사를 읽고, 시간과 키워드로 관련 설명을 찾아줍니다. Python 코드와 예제 데이터로 실행해 볼 수 있습니다.
+## 공부와 업무에 쓰는 도구
 
-**[Catpera · Void](https://github.com/K-Lunatic/Foundation/blob/portfolio-readme-refresh/PROJECTS.md#catpera-symphony--음악에-반응하는-3d-오케스트라) · 소리와 3D 상호작용**  
-Catpera는 MIDI에 맞춰 3D 오케스트라를 움직이고, Void는 휴대폰에서 낸 소리를 감지해 전시 화면을 바꿉니다.
+- **[터틀넥](https://github.com/K-Lunatic/Turtleneck)** — 학교 과제와 강의자료를 확인하고, 자료를 바탕으로 만든 문제를 웹 시험지에서 풀 수 있습니다.
+- **[Notability Study](https://github.com/K-Lunatic/Foundation/tree/portfolio-readme-refresh/tools/notability-study)** — 필기하면서 들었던 설명을 다시 찾기 위해, 필기·녹음·전사를 시간과 키워드로 연결합니다.
+- **[K_Army_qr](https://github.com/K-Lunatic/K_Army_qr)** — 행정병 근무 중 QR로 행사 안내와 배치도를 볼 수 있게 만든 페이지입니다.
 
-## 관심 분야
-
-- **게임:** 3D·오디오 상호작용 경험을 바탕으로 게임 시스템을 공부합니다.
-- **임베디드:** C와 통신을 바탕으로 MCU 제어와 RTOS를 공부합니다.
-- **인공지능:** 학습 자료를 구조화하고, AI가 만든 결과를 원문 근거와 연결하는 도구를 만듭니다.
-
-[프로젝트 모음](https://github.com/K-Lunatic/Foundation/blob/portfolio-readme-refresh/PROJECTS.md) · [연구 관심](https://github.com/K-Lunatic/Foundation/blob/portfolio-readme-refresh/RESEARCH.md) · [CS 학습 기록](https://github.com/K-Lunatic/Bedrock/tree/portfolio-readme-refresh) · [행정 업무 도구](https://github.com/K-Lunatic/K_Army_qr)
+[다른 프로젝트와 배포 기록](https://github.com/K-Lunatic/Foundation/blob/portfolio-readme-refresh/PROJECTS.md) · [CS 학습 기록](https://github.com/K-Lunatic/Bedrock/tree/portfolio-readme-refresh)
