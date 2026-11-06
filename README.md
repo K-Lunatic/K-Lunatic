@@ -15,7 +15,7 @@
 
 ## 공부와 업무에 쓰는 도구
 
-- **[터틀넥](https://github.com/K-Lunatic/Turtleneck)** — 학교 과제와 강의자료를 확인하고, 자료를 바탕으로 만든 문제를 웹 시험지에서 풀 수 있습니다.
+- **[터틀넥](https://github.com/K-Lunatic/Turtleneck)** — 해커톤에서 시작한 학습 도구입니다. 과제와 강의자료를 확인하고, 강의자료로 만든 문제를 웹 시험지에서 풀어볼 수 있습니다.
 - **[Notability Study](https://github.com/K-Lunatic/Foundation/tree/portfolio-readme-refresh/tools/notability-study)** — 필기하면서 들었던 설명을 다시 찾기 위해, 필기·녹음·전사를 시간과 키워드로 연결합니다.
 - **[K_Army_qr](https://github.com/K-Lunatic/K_Army_qr)** — 행정병 근무 중 QR로 행사 안내와 배치도를 볼 수 있게 만든 페이지입니다.
 
