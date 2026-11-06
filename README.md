@@ -6,7 +6,7 @@
 
 ## 게임과 인터랙션
 
-- **[BID! LIMIT](https://github.com/K-Lunatic/bid-limit)** — Godot으로 만든 4인 2D 경매 게임. WebRTC로 같은 방에 접속해 카드로 입찰합니다. [웹 빌드](https://bid-limit.vercel.app/)
+- **[BID! LIMIT](https://github.com/K-Lunatic/bid-limit)** — Godot으로 4인 경매 게임을 만들면서 WebRTC 멀티플레이와 브라우저 음성 채팅을 직접 구현해 봤습니다. [웹 빌드](https://bid-limit.vercel.app/)
 - **[Catpera · Void](https://github.com/K-Lunatic/Foundation/blob/portfolio-readme-refresh/PROJECTS.md#catpera-symphony--음악에-반응하는-3d-오케스트라)** — MIDI에 맞춰 움직이는 3D 오케스트라와, 휴대폰에서 낸 소리에 반응하는 전시 화면입니다.
 
 ## 공부와 업무에 쓰는 도구
