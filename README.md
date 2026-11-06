@@ -15,4 +15,7 @@
 - **[Notability Study](https://github.com/K-Lunatic/Foundation/tree/portfolio-readme-refresh/tools/notability-study)** — 필기하면서 들었던 설명을 다시 찾기 위해, 필기·녹음·전사를 시간과 키워드로 연결합니다.
 - **[K_Army_qr](https://github.com/K-Lunatic/K_Army_qr)** — 행정병 근무 중 QR로 행사 안내와 배치도를 볼 수 있게 만든 페이지입니다.
 
+- **[GradKUya](https://github.com/K-Lunatic/Foundation/blob/portfolio-readme-refresh/PROJECTS.md#졸업할ku야--gradkuya)** — 성적표와 요람을 대조해 졸업요건을 확인하고 수강 시간표를 비교하는 도구입니다.
+- **[Logics](https://github.com/K-Lunatic/Foundation/blob/portfolio-readme-refresh/PROJECTS.md#logics--ink--생활-데이터를-실행-가능한-도구로)** — 생활 기록을 한곳에서 관리하고 AI로 조회·수정하는 앱입니다. 웹 앱과 MySQL을 라즈베리파이에서 돌릴 수 있도록 Docker 구성을 만들었습니다.
+
 [다른 프로젝트와 배포 기록](https://github.com/K-Lunatic/Foundation/blob/portfolio-readme-refresh/PROJECTS.md) · [CS 학습 기록](https://github.com/K-Lunatic/Bedrock/tree/portfolio-readme-refresh)
