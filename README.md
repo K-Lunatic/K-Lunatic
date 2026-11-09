@@ -16,7 +16,7 @@
 ## 행사에서 쓴 도구
 
 - **[Angel24](https://github.com/K-Lunatic/Foundation/blob/Default/PROJECTS.md#angel24--일산-서코-부스-키오스크)** — 일산 서울코믹월드에서 팬 부스를 열고, 현장에서 굿즈를 보고 주문할 수 있도록 키오스크를 만들었습니다. [둘러보기](https://angel24-kiosk.vercel.app/)
-- **[BillPhoto](https://github.com/K-Lunatic/Foundation/blob/Default/PROJECTS.md#billphoto--행사-포토부스)** — 행사에서 사진을 찍고 합성해 블루투스 프린터로 출력하는 포토부스를 운영했습니다.
+- **[BillPhoto](https://github.com/K-Lunatic/Foundation/blob/Default/PROJECTS.md#billphoto--행사-포토부스)** — 행사에서 사진을 찍고 합성해 블루투스 프린터로 출력하는 포토부스를 운영했습니다. [시연본 열기](https://k-lunatic.github.io/billphoto-demo/)
 
 ## 공부와 업무에 쓰는 도구
 
@@ -27,4 +27,4 @@
 - **[GradKUya](https://github.com/K-Lunatic/Foundation/blob/Default/PROJECTS.md#졸업할ku야--gradkuya)** — 성적표와 요람을 대조해 졸업요건을 확인하고 수강 시간표를 비교하는 도구입니다.
 - **[Logics](https://github.com/K-Lunatic/Foundation/blob/Default/PROJECTS.md#logics--ink--생활-데이터를-실행-가능한-도구로)** — 생활 기록을 한곳에서 관리하고 AI로 조회·수정하는 앱입니다. 웹 앱과 MySQL을 라즈베리파이에서 돌릴 수 있도록 Docker 구성을 만들었습니다.
 
-[다른 프로젝트와 배포 기록](https://github.com/K-Lunatic/Foundation/blob/Default/PROJECTS.md) · [CS 학습 기록](https://github.com/K-Lunatic/Bedrock/tree/portfolio-readme-refresh)
+[다른 프로젝트와 배포 기록](https://github.com/K-Lunatic/Foundation/blob/Default/PROJECTS.md) · [CS 학습 기록](https://github.com/K-Lunatic/Bedrock)
