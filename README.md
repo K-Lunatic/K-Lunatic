@@ -7,7 +7,7 @@
 ## 게임
 
 - **[BID! LIMIT](https://github.com/K-Lunatic/bid-limit)** — [Roomcon](https://roomcon.team/) 첫 회차에서 만든 4인 경매 카드 게임입니다. Godot에서 WebRTC로 멀티플레이와 브라우저 음성 채팅을 구현했습니다. [플레이](https://bid-limit.vercel.app/)
-- **[Catpera Symphony](https://github.com/K-Lunatic/catpera-public)** — 직접 만든 고양이 3D 모델을 MIDI에 맞춰 움직이게 만든 웹 오케스트라입니다. [체험](https://catpera.vercel.app/)
+- **[Catpera Symphony](https://github.com/K-Lunatic/catpera-public)** — 직접 만든 고양이 3D 모델을 MIDI에 맞춰 움직이게 만든 웹 오케스트라입니다.
 
 ## 임베디드와 현장 도구
 
